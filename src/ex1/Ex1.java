@@ -3,7 +3,7 @@ package ex1;
 /**
  * This class +++Trial+++
  *
- * @author Bishoy
+ * @author Bishoy Azer
  */
 public class Ex1
 {
