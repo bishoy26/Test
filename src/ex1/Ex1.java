@@ -1,7 +1,7 @@
 package ex1;
 
 /**
- * This class +++Inserct Description Here+++
+ * This class +++Trial+++
  *
  * @author Bishoy
  */
